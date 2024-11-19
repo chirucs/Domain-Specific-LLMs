@@ -8,7 +8,7 @@ This repository explores how specialized Large Language Models (LLMs) can be use
 - [Key Concepts](#key-concepts)
 - [How to Use](#how-to-use)
 - [Resources](#resources)
-
+ 
 ## Overview
 Generative AI has made significant strides in tackling specialized problems by fine-tuning foundation models like PaLM and Gemini for specific domains. This project focuses on two primary areas:
 1. **Cybersecurity**: Using security-focused models (SecLM) to automate threat detection, triage, and incident response.
